@@ -48,6 +48,9 @@ public class Flashcards {
         put("ル", "ru");
         put("レ", "re");
         put("ロ", "ro");
+        put("ワ", "wa");
+        put("ヲ", "wo");
+        put("ン", "n");
         // Add the rest of the Katakana characters here...
     }};
 
@@ -95,6 +98,9 @@ public class Flashcards {
         put("る", "ru");
         put("れ", "re");
         put("ろ", "ro");
+        put("わ", "wa");
+        put("を", "wo");
+        put("ん", "n");
         // Add the rest of the Hiragana characters here...
     }};
 
